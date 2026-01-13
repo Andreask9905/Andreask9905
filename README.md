@@ -14,3 +14,6 @@
 - Spam Email Detector
 - Theatre Booking System
 
+🎯 Currently looking for:
+Junior / Intern / Remote Software Development roles
+
